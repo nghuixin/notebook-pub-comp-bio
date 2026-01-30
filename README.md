@@ -15,9 +15,9 @@ All the learning resources for this template can be found in `developer-docs/`.
 
 **NOTE: When ready to publish, fill in the information below, then delete this line and everything above it.**
 
-# [NOTEBOOK-PUB-BRAIN-AGE]
+# [NOTEBOOK-PUB-COMP-BIO]
 
-This code repository contains or points to all materials required for creating and hosting the publication entitled, *"[NOTEBOOK-PUB-BRAIN-AGE]"*.
+This code repository contains or points to all materials required for creating and hosting the publication entitled, *"[NOTEBOOK-PUB-COMP-BIO]"*.
 
 The publication is hosted at [this URL]([PUB-URL]).
 
